@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492062046917",
+    "project_id": "mr-movies-6d186",
+    "storage_bucket": "mr-movies-6d186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492062046917:android:16d3f3c51bd86d82fa4eac",
+        "android_client_info": {
+          "package_name": "com.example.moveisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492062046917-79oia13qfqb1dfpdmjr5uqtu5aqtge8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0AiyUUbijqFtYeYM3-QL2wJsZY6om1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492062046917-79oia13qfqb1dfpdmjr5uqtu5aqtge8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
